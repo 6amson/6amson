@@ -11,4 +11,4 @@ Here are some ideas to get you started:
 📫 How to reach me: bunmigrey@icloud.com
 
 💞️ Some of my favorite works include: 
-https://ethexplorer.netlify.app/, https://nounz.netlify.app/
+https://ethexplorer.netlify.app/   https://nounz.netlify.app/
