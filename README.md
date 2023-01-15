@@ -1,10 +1,10 @@
 ## Hello.
 
-🔭 I’m currently on open source projects
-
-🌱 I’m currently learning solidity.
+🔭 I’m currently working on open source projects
 
 👯 I’m looking to collaborate on amazing projects.
+
+🌱 I’m currently learning solidity.
 
 📫 How to reach me: bunmigrey@icloud.com
 
