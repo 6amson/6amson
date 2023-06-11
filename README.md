@@ -12,6 +12,5 @@
 
 https://ethexplorer.netlify.app/  
 https://craiglistremodel.netlify.app/  
-
 https://homefind.netlify.app/  
 https://flowerpads.netlify.app/
