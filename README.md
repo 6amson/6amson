@@ -11,7 +11,7 @@
 💞️ Some of my favorite works include: 
 
 https://ethexplorer.netlify.app/  
-https://.craiglistremodel.netlify.app/  
+https://craiglistremodel.netlify.app/  
 
 https://homefind.netlify.app/  
 https://flowerpads.netlify.app/
