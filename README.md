@@ -1,6 +1,7 @@
 ## Hello.
 
 🔭 I’m currently honing Typescript and soon Go lang.
+
 👯 I’m looking to collaborate on amazing projects.
 🌱 Growth is inevitable for a mind that's constantly seeking.
 📫 How to reach me: bunmigrey@icloud.com
