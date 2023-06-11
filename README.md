@@ -1,6 +1,6 @@
 ## Hello.
 
-🔭 I’m currently honing Typescript and soon Go lang.
+🔭 I’m currently honing Typescript and soon, Go lang.
 
 👯 I’m looking to collaborate on amazing projects.
 
