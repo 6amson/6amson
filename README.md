@@ -8,7 +8,7 @@
 
 📫 How to reach me: bunmigrey@icloud.com
 
-💞️ Some of my favorite works include: 
+💞️ Some of my favorite works: 
 
 https://ethexplorer.netlify.app/  
 https://craiglistremodel.netlify.app/  
