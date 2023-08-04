@@ -1,8 +1,8 @@
 ## Hello.
 
-🔭 I’m currently honing Typescript and soon, Go lang.
+🔭 I’m currently honing Typescript and soon, C++.
 
-👯 I’m looking to collaborate on amazing projects.
+👯 I’m looking to collaborate on unique projects.
 
 🌱 Growth is inevitable for a mind that's constantly seeking.
 
@@ -10,7 +10,7 @@
 
 💞️ Some of my favorite works: 
 
-https://ethexplorer.netlify.app/  
-https://craiglistremodel.netlify.app/  
-https://homefind.netlify.app/  
-https://flowerpads.netlify.app/
+  https://ethexplorer.netlify.app/  
+  https://craiglistremodel.netlify.app/  
+  https://homefind.netlify.app/  
+  https://flowerpads.netlify.app/
