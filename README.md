@@ -10,7 +10,7 @@
 
 ##
 ## Live Projects 💞️
-🚀 *GAZE* (DAPP)
+🚀 Gaze (DAPP)
 
 📌 Live link:   https://gaze.ink
 
@@ -20,7 +20,7 @@
 
 ##
 
-🚀 *CRAIGSLIST* 
+🚀 Craigslist 
 
 📌 Live link:   https://craiglistremodel.netlify.app/
 
@@ -29,7 +29,7 @@
 ✨ Stacks: React, SASS, GSAP, et al.
 ##
 
-🚀 *OLIVE* 
+🚀 Olive 
 
 📌 Live link:   https://oliveweb3.vercel.app/
 
@@ -38,7 +38,7 @@
 ✨ Stacks: NEST, NEXT, SASS, GSAP, et al.
 ##
 
-🚀 *ETHEXPLORER* (DAPP)
+🚀 Ethxplorer (DAPP)
 
 📌 Live link:    https://ethexplorer.netlify.app/ 
 
