@@ -16,7 +16,7 @@
 
 ✨ About: Gaze is an NFT push notification service that enables NFT enthusiasts to subscribe to NFT collections.
 
-✨ Stacks: NEXT, NEST, NodeJs, RESTFUL API, Bootstrap, Mongodb, Web3js, EthersJs, Framer-motion, SASS, Tailwind CSS, UseContext API, et al.
+✨ Stacks: NEXT, NEST, NodeJs, RESTFUL API, WebPush, Mongodb, Web3js, EthersJs, Framer-motion, SASS, Tailwind CSS, UseContext API, et al.
 
 ##
 
