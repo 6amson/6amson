@@ -10,7 +10,7 @@
 
 
 ## Live Projects 💞️
-🚀 *[GAZE]* (https://gaze.ink)
+🚀 [GAZE] (https://gaze.ink)
 
 
 
