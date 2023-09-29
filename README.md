@@ -10,7 +10,7 @@
 
 
 ## Live Projects 💞️
-🚀 *Gaze* (DAPP)
+🚀 *GAZE* (DAPP)
 
 📌 Live link:   https://gaze.ink
 
@@ -18,21 +18,18 @@
 
 ✨ Stacks: NEXT, NEST, NodeJs, RESTFUL API, Bootstrap, Mongodb, Web3js, EthersJs, Framer-motion, SASS, Tailwind CSS, UseContext API, et al.
 
+##
 
-
-
-🚀 *Craigslist* 
+🚀 *CRAIGSLIST* 
 
 📌 Live link:   https://craiglistremodel.netlify.app/
 
 ✨ About: An interactive website remodel for Craigslist.
 
 ✨ Stacks: React, SASS, GSAP, et al.
+##
 
-
-
-
-🚀 *Olive* 
+🚀 *OLIVE* 
 
 📌 Live link:   https://oliveweb3.vercel.app/
 
@@ -43,7 +40,7 @@
 
 
 
-🚀 *Ethexplorer* (DAPP)
+🚀 *ETHEXPLORER* (DAPP)
 
 📌 Live link:    https://ethexplorer.netlify.app/ 
 
