@@ -8,7 +8,7 @@
 
 📫 How to reach me: bunmigrey@icloud.com
 
-
+##
 ## Live Projects 💞️
 🚀 *GAZE* (DAPP)
 
@@ -36,9 +36,7 @@
 ✨ About: A web app for a web3 seminar. Demonstrates basic CRUD functionalities.
 
 ✨ Stacks: NEST, NEXT, SASS, GSAP, et al.
-
-
-
+##
 
 🚀 *ETHEXPLORER* (DAPP)
 
