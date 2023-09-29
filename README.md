@@ -12,7 +12,7 @@
 ## Live Projects 💞️
 🚀 Gaze (DAPP)
 
-📌 Live link:   https://gaze.ink
+✨ Live link:   https://gaze.ink
 
 ✨ About: Gaze is an NFT push notification service that enables NFT enthusiasts to subscribe to NFT collections.
 
@@ -22,25 +22,25 @@
 
 🚀 Craigslist 
 
-📌 Live link:   https://craiglistremodel.netlify.app/
+✨ Live link:   https://craiglistremodel.netlify.app/
 
 ✨ About: An interactive website remodel for Craigslist.
 
 ✨ Stacks: React, SASS, GSAP, et al.
 ##
 
-🚀 Olive 
+🚀 DHL 
 
-📌 Live link:   https://oliveweb3.vercel.app/
+✨ Live link:   https://dhlremodel.netlify.app/
 
-✨ About: A web app for a web3 seminar. Demonstrates basic CRUD functionalities.
+✨ About: An interactive website remodel for DHL courier.
 
-✨ Stacks: NEST, NEXT, SASS, GSAP, et al.
+✨ Stacks: VueJs, SASS, GSAP, et al.
 ##
 
 🚀 Ethxplorer (DAPP)
 
-📌 Live link:    https://ethexplorer.netlify.app/ 
+✨ Live link:    https://ethexplorer.netlify.app/ 
 
 ✨ About: An Ethereum blockchain explorer built with React. It allows for direct connection to your Metamask wallet.
 
