@@ -1,6 +1,6 @@
 ## Hello.
 
-🔭 I’m currently honing Typescript and soon, C++.
+🔭 I’m currently honing Typescript and soon, Java.
 
 👯 I’m looking to collaborate on unique projects.
 
@@ -8,10 +8,11 @@
 
 📫 How to reach me: bunmigrey@icloud.com
 
-💞️ Some of my favorite works: 
 
-## Live Projects
-🚀 *GAZE*
+## Live Projects 💞️
+🚀 *[GAZE]* (https://gaze.ink)
+
+
 
 
 
