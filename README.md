@@ -1,6 +1,6 @@
 ## Hello.
 
-🔭 I’m currently honing Rust and soon, Java.
+🔭 I’m currently honing Rust and Solidity.
 
 👯 I’m looking to collaborate on unique projects.
 
