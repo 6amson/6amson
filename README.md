@@ -2,31 +2,32 @@
 
 🔭 I’m currently honing Rust and Solidity.
 
-👯 I’m looking to collaborate on unique projects.
+🖥️ Devops and backend-heavy software engineer.
+
+🦋 Oh, I make amazing websites too.
 
 🌱 Growth is inevitable for a mind that's constantly seeking.
 
-📫 How to reach me: bunmigrey@icloud.com
 
 ##
 ## Live Projects 💞️
+
+🚀 Monorepo 
+
+✨ Live link:   https://github.com/6amson/monorepo
+
+✨ About: a containerized repo utilizing github reusable workflow and kubernetes clusters (EKS).
+
+✨ Core Stacks: AWS (CodePipeline, CodeBuild, EBS, ECS, EKS, IAM, CloudWatch), Docker, Kubernetes, GitHub Actions, Linux
+##
+
 🚀 Gaze (DAPP)
 
-✨ Live link:   https://gaze.ink
+✨ Live link:   https://gazenft.vercel.app/
 
 ✨ About: Gaze is an NFT push notification service that enables NFT enthusiasts to subscribe to NFT collections.
 
 ✨ Stacks: NEXT, NEST, NodeJs, RESTFUL API, WebPush, Mongodb, Web3js, EthersJs, Framer-motion, SASS, Tailwind CSS, UseContext API, et al.
-
-##
-
-🚀 Craigslist 
-
-✨ Live link:   https://craiglistremodel.netlify.app/
-
-✨ About: An interactive website remodel for Craigslist.
-
-✨ Stacks: React, SASS, GSAP, et al.
 ##
 
 🚀 DHL 
