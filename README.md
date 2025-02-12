@@ -1,6 +1,8 @@
 ## Hello.
 
-## skip to pinned repos if you want to dive directly into it.
+🫵 skip to pinned repos if you want to dive directly into it.
+
+##
 
 🔭 I’m currently honing Rust and Solidity.
 
