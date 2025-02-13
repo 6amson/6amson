@@ -4,7 +4,7 @@
 
 ##
 
-🔭 I’m currently honing Rust and Solidity.
+🔭 I’m currently honing Rust.
 
 🖥️ Devops and backend-heavy software engineer.
 
