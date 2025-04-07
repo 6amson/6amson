@@ -25,9 +25,9 @@
 ✨ Core Stacks: AWS (CodePipeline, CodeBuild, EBS, ECS, EKS, IAM, CloudWatch), Docker, Kubernetes, GitHub Actions, Linux
 ##
 
-🚀 Mainframesatck 
+🚀 Mainframe
 
-✨ Live link: https://github.com/6amson/mainframestack
+✨ Live link: https://github.com/6amson/mainstack
 
 ✨ About: a containerized backend framework. Unit tested with Jest and containerized with docker
 
