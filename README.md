@@ -14,7 +14,7 @@
 
 
 ##
-## Personal Live Projects 💞️
+## Live Projects 💞️
 
 🚀 Monorepo 
 
