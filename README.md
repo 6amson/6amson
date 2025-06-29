@@ -4,7 +4,7 @@ Bunmi here, top guy.
 
 ##
 
-📍 Rust, Typescript, AWS.
+📍 Ruby, Rust, Typescript, AWS.
 
 🖥️ Fullstack — DevOps, and backend-heavy — software engineer.
 
