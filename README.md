@@ -14,8 +14,6 @@ Samson here, top guy.
 
 [PhlexIt](https://play.google.com/store/apps/details?id=com.phlex.consumer&hl=en): Multi-faceted event ticketing ecosystem connecting Promoter, vendors, and attendees.
 
-[MoonPay](#): Rust SDK crate for MoonPay (in works).
-
 Contributing to [Flow](https://github.com/Flow-Research/Documentation/wiki/Technical-Requirements-and-Specifications-for-Flow-Proof-of-Concept-(PoC)), an open-source decentralized creative economy.
 
 
